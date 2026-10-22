@@ -2,7 +2,7 @@
 Questa repo è una repo di test
 
 ## 🚀 Compile and Run
-Download the repository ZIP file and extract it or clone the repositry directly in the CLI using:
+Download the repository ZIP file and extract it or clone the repositry directly in the CLI by typing:
 ```
 git clone https://github.com/MaroSamaa/TestCondiviso
 ```
