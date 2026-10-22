@@ -1,4 +1,4 @@
-package TestCondiviso.src.gui;
+package gui;
 
 import javax.swing.*;
 import java.awt.*;

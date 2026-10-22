@@ -1,6 +1,4 @@
-package TestCondiviso.src;
-
-import TestCondiviso.src.gui.Frame;
+import gui.Frame;
 
 public class Main 
 {
