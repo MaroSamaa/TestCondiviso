@@ -1,4 +1,4 @@
-package gui;
+package TestCondiviso.src.gui;
 
 import javax.swing.*;
 import java.awt.*;
@@ -11,5 +11,8 @@ public class Frame extends JFrame
         setLayout(new BorderLayout());
         setVisible(true);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
+
+        JButton btn = new JButton("Bottone");
+        this.getContentPane().add(btn);
     }
 }
