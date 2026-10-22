@@ -2,7 +2,10 @@
 Questa repo è una repo di test
 
 ## 🚀 Compile and Run
-Here are the instructions to compile and run the program.
+Download the repository ZIP file and extract it or clone the repositry directly in the CLI using:
+```
+git clone https://github.com/MaroSamaa/TestCondiviso
+```
 
 ### CLI
 #### WINDOWS
